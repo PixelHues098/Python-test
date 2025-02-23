@@ -1,5 +1,5 @@
 def print_square_matrix():
-    print("\nHELLOOO! WELCOME TO PART 2: THE SQUARE MATRIX!\n")
+    print("\nHELLOOO! WELCOME TO PART 1: THE SQUARE MATRIX!\n")
     n = int(input("Enter the square matrix size: "))
     num = 1  
     for i in range(1, n * n + 1):
